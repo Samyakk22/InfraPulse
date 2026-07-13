@@ -170,6 +170,11 @@ Nginx Reverse Proxy
 Public Dashboard
 ```
 
+##Screenshots
+![Dashboard](images/dashboard1.png)
+![Dashboard](images/dashboard2.png)
+![Dashboard](images/dashboard3.png)
+
 ---
 
 ## Learning Outcomes
