@@ -171,9 +171,9 @@ Public Dashboard
 ```
 
 ##Screenshots
-![Dashboard](images/dashboard1.png)
-![Dashboard](images/dashboard2.png)
-![Dashboard](images/dashboard3.png)
+![Dashboard](images/Dashboard1.png)
+![Dashboard](images/Dashboard2.png)
+![Dashboard](images/Dashboard3.png)
 
 ---
 
